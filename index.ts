@@ -4,6 +4,8 @@
 //######################################################################
 let num1: number;
 let num2: number;
-num1 = 123;
-num2 = 457;
+num1 = 1000;
+num2 = 1000;
 console.log(num1);
+console.log(num2);
+console.log(num1 / num2);
